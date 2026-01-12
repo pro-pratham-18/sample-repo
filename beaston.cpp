@@ -6,6 +6,6 @@ int main(){
     cout<<"feature 1";
 
 
-    
+    cout<<"feature 2";
     return 0;
 }
